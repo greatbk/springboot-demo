@@ -8,7 +8,7 @@ import java.util.List;
 public class DemoRepository {
 
     public List<String> findFruits() {
-        return List.of("apple", "banana", "cacao", "durian");
-        //return List.of("apple", "banana", "cacao");
+        //return List.of("apple", "banana", "cacao", "durian");
+        return List.of("apple", "banana", "cacao");
     }
 }
